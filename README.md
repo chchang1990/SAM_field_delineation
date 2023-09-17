@@ -14,7 +14,11 @@ To answer these two question, I retrieved both S2 true-color and false-color ima
 
 The results showed that the boundaries delineated from both types of imagery generally agree with the boundaries shown on the USDA Cropland Data Layer. This indicates that SAM can be used as a tool that quickly delineate the field boundaries.
 
-In addition, the field boundaries delineated from the false-color image seem to better reveal some details shown on the NDVI image, indicating that applying SAM on the false-color image may be used to show the boundaries between crops that have different health conditions. However, more examination on the delineated results should be inspected to reach a solid conclusion.
+In addition, the field boundaries delineated from the false-color image seem to better reveal some details shown on the NDVI image, indicating that applying SAM on the false-color image may be used to show the boundaries between crops that have different health conditions. However, more examination on the delineated results is required to reach a solid conclusion.
+
+**SAM-delineated Field Boundaries from the S2 True-color Image (background is S2 NDVI)**
+![](https://drive.google.com/uc?export=view&id=1-v7ARK6icklG180EUjE0rCAIKjHlJ1GE)
 
 
-
+**SAM-delineated Field Boundaries from the S2 False-color Image (background is S2 NDVI)**
+![](https://drive.google.com/uc?export=view&id=1-sVch9NIUty_xIWxiDZ4hruoP0NspEt7)
